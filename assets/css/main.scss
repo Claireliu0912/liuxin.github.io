@@ -108,22 +108,26 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+/* 1. 主容器：负责将文字和 logo 组推向两端 */
 .collaboration-line {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
+  display: flex;                  /* 启用 Flexbox 布局 */
+  justify-content: space-between; /* 将内部元素推向两端 */
+  align-items: center;            /* 关键：垂直居中对齐文字和 logo 组 */
+  width: 100%;
+}
 
-  /* --- Add this new rule for the logo group --- */
-  .logos-container {
-    display: flex;       /* Aligns logos in a row */
-    align-items: center; /* Vertically centers them */
-    gap: 10px;           /* Adds a 10px space between the logos */
-    margin-left: 15px;   /* Adds space between text and logos */
-  }
-  
-  /* This is your existing logo style, no changes needed */
-  .collaboration-logo {
-    height: 24px;
-    width: auto;
-  }
+/* 2. Logo 容器：负责将多个 logo 合并为一行 */
+.logos-container {
+  display: flex;        /* 将内部的 logo 水平排列 */
+  align-items: center;  /* 确保 logo 之间也垂直对齐 */
+  gap: 12px;            /* 在 logo 之间添加 12px 的间距 */
+  margin-left: 15px;    /* 确保 logo 组和文字之间有一定间距 */
+}
+
+/* 3. 单个 Logo 的样式 */
+.collaboration-logo {
+  /* 关键：使用 em 单位，让 logo 高度相对于文字大小自动调整 */
+  /* 1.2em 通常是与单行文字视觉上最和谐的高度，你可以微调这个值 */
+  height: 1.2em; 
+  width: auto;      /* 宽度自动，以保持 logo 的原始比例 */
+}

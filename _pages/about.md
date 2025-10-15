@@ -41,6 +41,8 @@ I am actively seeking academic collaborations where I can contribute to cutting-
 
 **Xin Liu**, Haojun Rui, Dawei Cheng, Li Han, Zhongyun Zhou, Guoping Zhao
 
+_The ACM Web Conference (WWW), 2025_
+
 <div class="collaboration-line">
     <span>- Collaboration with China Futures Market Monitoring Center</span>
     <div class="logos-container">
@@ -61,6 +63,8 @@ I am actively seeking academic collaborations where I can contribute to cutting-
 
 Jiasheng Wu, **Xin Liu**, Dawei Cheng, Yi Ouyang, Xian Wu, Yefeng Zheng
 
+_International Joint Conference on Artificial Intelligence (IJCAI), 2024_
+
 <div class="collaboration-line">
     <span>- Collaboration with Jarvis Research Center, Tencent YouTu Lab</span>
     <div class="logos-container">
@@ -69,12 +73,17 @@ Jiasheng Wu, **Xin Liu**, Dawei Cheng, Yi Ouyang, Xian Wu, Yefeng Zheng
     </div>
 </div>
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML 2024</div><img src='images/paper/ECML2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Asymmetric Graph-Based Deep Reinforcement Learning for Portfolio Optimization](https://link.springer.com/chapter/10.1007/978-3-031-70378-2_11)
 
 Haoyu Sun, **Xin Liu**, Yuxuan Bian, Peng Zhu, Dawei Cheng, Yuqi Liang
+
+_European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2024_
 
 </div>
 </div>
