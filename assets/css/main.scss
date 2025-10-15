@@ -107,3 +107,23 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.collaboration-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  /* --- Add this new rule for the logo group --- */
+  .logos-container {
+    display: flex;       /* Aligns logos in a row */
+    align-items: center; /* Vertically centers them */
+    gap: 10px;           /* Adds a 10px space between the logos */
+    margin-left: 15px;   /* Adds space between text and logos */
+  }
+  
+  /* This is your existing logo style, no changes needed */
+  .collaboration-logo {
+    height: 24px;
+    width: auto;
+  }

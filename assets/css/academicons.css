@@ -327,17 +327,3 @@
 }
 
 
-/* 将容器设置为 Flexbox 布局 */
-.collaboration-line {
-  display: flex; /* 启用 Flexbox */
-  justify-content: space-between; /* 元素两端对齐 */
-  align-items: center; /* 垂直居中对齐 */
-  width: 100%; /* 确保占满整个宽度 */
-}
-
-/* 设置 logo 图片的样式 */
-.collaboration-logo {
-  height: 24px; /* 根据需要调整 logo 的高度 */
-  width: auto; /* 宽度自动，保持图片比例 */
-  margin-left: 10px; /* 在 logo 和文字之间添加一点间距 */
-}

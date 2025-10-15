@@ -39,11 +39,12 @@ I am actively seeking academic collaborations where I can contribute to cutting-
 
 **Xin Liu**, Haojun Rui, Dawei Cheng, Li Han, Zhongyun Zhou, Guoping Zhao
 
-- Collaboration with China Futures Market Monitoring Center
-
 <div class="collaboration-line">
-        <img src="images/logo/cfmmc.png" alt="Lab Logo" class="collaboration-logo">
+    <span>- Collaboration with China Futures Market Monitoring Center</span>
+    <div class="logos-container">
+        <img src="images/logo/cfmmc.png" alt="Tencent Logo" class="collaboration-logo">
     </div>
+</div>
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
@@ -58,13 +59,12 @@ I am actively seeking academic collaborations where I can contribute to cutting-
 
 Jiasheng Wu, **Xin Liu**, Dawei Cheng, Yi Ouyang, Xian Wu, Yefeng Zheng
 
-- Collaboration with Jarvis Research Center, Tencent YouTu Lab
-
 <div class="collaboration-line">
-        <img src="images/logo/Tencent.png" alt="Lab Logo" class="collaboration-logo">
-        <img src="images/logo/jarvis.png" alt="Lab Logo" class="collaboration-logo">
+    <span>- Collaboration with Jarvis Research Center, Tencent YouTu Lab</span>
+    <div class="logos-container">
+        <img src="images/logo/Tencent.png" alt="Tencent Logo" class="collaboration-logo">
+        <img src="images/logo/jarvis.png" alt="Jarvis Logo" class="collaboration-logo">
     </div>
-</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML 2024</div><img src='images/paper/ECML2024.png' alt="sym" width="100%"></div></div>
