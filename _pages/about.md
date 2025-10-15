@@ -97,8 +97,8 @@ _European Conference on Machine Learning and Principles and Practice of Knowledg
 
 # 📖 Educations
 
-- _2024.09 - 2027.03 (now)_, Liu Xin, M.S., Tongji University, China. (Advisor: Prof. Dawei Cheng)
-- _2020.09 - 2024.06_, Liu Xin, B.S., Tongji University, China.
+- _2024.09 - 2027.03 (now)_, M.S., Tongji University, China. (Advisor: Prof. Dawei Cheng)
+- _2020.09 - 2024.06_, B.S., Tongji University, China.
 
 <!-- # 💻 Internships
 

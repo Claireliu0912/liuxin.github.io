@@ -126,8 +126,20 @@ h1:before, .anchor:before {
 
 /* 3. 单个 Logo 的样式 */
 .collaboration-logo {
-  /* 关键：使用 em 单位，让 logo 高度相对于文字大小自动调整 */
-  /* 1.2em 通常是与单行文字视觉上最和谐的高度，你可以微调这个值 */
-  height: 1.2em; 
-  width: auto;      /* 宽度自动，以保持 logo 的原始比例 */
+    /* 增大默认高度以便 logo 更明显；保持宽度自适应以保留纵横比 */
+    height: 2.4em; 
+    width: auto;
+    display: inline-block;
+}
+
+/* 响应式：在小屏设备上适当减小 logo，以免占用过多空间 */
+@media (max-width: 600px) {
+    .collaboration-logo {
+        height: 1.6em;
+    }
+}
+
+/* 可选：如果需要单独放大某个 logo（比如 cfmmc），可在 img 上加类 .collaboration-logo--large */
+.collaboration-logo--large {
+    height: 3.2em;
 }
