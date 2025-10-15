@@ -46,7 +46,7 @@ _The ACM Web Conference (WWW), 2025_
 <div class="collaboration-line">
     <span>- Collaboration with China Futures Market Monitoring Center</span>
     <div class="logos-container">
-        <img src="images/logo/cfmmc.png" alt="cfmmc Logo" class="collaboration-logo" height="2em">
+        <img src="images/logo/cfmmc.png" alt="cfmmc Logo" class="collaboration-logo">
     </div>
 </div>
 
