@@ -12,7 +12,9 @@ description: |
   - Graph Neural Networks
   - Data Mining in Finance
   - Machine Learning
-repository: "Claireliu0912/liuxin.github.io"
+repository: "Claireliu0912/Claireliu0912.github.io"
+url: "https://claireliu0912.github.io"
+baseurl: ""
 google_scholar_stats_use_cdn: true
 
 # google analytics
