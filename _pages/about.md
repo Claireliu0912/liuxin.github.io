@@ -41,6 +41,10 @@ I am actively seeking academic collaborations where I can contribute to cutting-
 
 - Collaboration with China Futures Market Monitoring Center
 
+<div class="collaboration-line">
+        <img src="images/logo/cfmmc.png" alt="Lab Logo" class="collaboration-logo">
+    </div>
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
@@ -54,8 +58,9 @@ I am actively seeking academic collaborations where I can contribute to cutting-
 
 Jiasheng Wu, **Xin Liu**, Dawei Cheng, Yi Ouyang, Xian Wu, Yefeng Zheng
 
+- Collaboration with Jarvis Research Center, Tencent YouTu Lab
+
 <div class="collaboration-line">
-        <span>- Collaboration with Jarvis Research Center, Tencent YouTu Lab</span>
         <img src="images/logo/Tencent.png" alt="Lab Logo" class="collaboration-logo">
         <img src="images/logo/jarvis.png" alt="Lab Logo" class="collaboration-logo">
     </div>
