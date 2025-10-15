@@ -7,8 +7,14 @@
 
 # Site Settings
 title: "Liu Xin"
-description: "Research interests: Graph Neural Networks, Financial Technology, Anti-Fraud, Data Mining, Machine Learning"
-repository: "RayeRen/acad-homepage.github.io"
+description: |
+  Research interests: 
+  - Graph Neural Networks
+  - Financial Technology
+  - Anti-Fraud
+  - Data Mining
+  - Machine Learning
+repository: "Claireliu0912/liuxin.github.io"
 google_scholar_stats_use_cdn: true
 
 # google analytics

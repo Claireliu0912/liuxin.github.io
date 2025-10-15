@@ -39,7 +39,7 @@ I am actively seeking academic collaborations where I can contribute to cutting-
 
 [Multi-Granularity Augmented Graph Learning for Spoofing Transaction Detection](https://dl.acm.org/doi/10.1145/3696410.3714521)
 
-<u>**Xin Liu**</u>, Haojun Rui, Dawei Cheng, Li Han, Zhongyun Zhou, Guoping Zhao
+**<u>Xin Liu</u>**, Haojun Rui, Dawei Cheng, Li Han, Zhongyun Zhou, Guoping Zhao
 
 _The ACM Web Conference (WWW), 2025_
 
@@ -61,7 +61,7 @@ _The ACM Web Conference (WWW), 2025_
 
 [Safeguarding fraud detection from attacks: A robust graph learning approach](https://www.ijcai.org/proceedings/2024/0830.pdf)
 
-Jiasheng Wu, <u>**Xin Liu**</u>, Dawei Cheng, Yi Ouyang, Xian Wu, Yefeng Zheng
+Jiasheng Wu, **<u>Xin Liu</u>**, Dawei Cheng, Yi Ouyang, Xian Wu, Yefeng Zheng
 
 _International Joint Conference on Artificial Intelligence (IJCAI), 2024_
 
@@ -81,7 +81,7 @@ _International Joint Conference on Artificial Intelligence (IJCAI), 2024_
 
 [Asymmetric Graph-Based Deep Reinforcement Learning for Portfolio Optimization](https://link.springer.com/chapter/10.1007/978-3-031-70378-2_11)
 
-Haoyu Sun, <u>**Xin Liu**</u>, Yuxuan Bian, Peng Zhu, Dawei Cheng, Yuqi Liang
+Haoyu Sun, **<u>Xin Liu</u>**, Yuxuan Bian, Peng Zhu, Dawei Cheng, Yuqi Liang
 
 _European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2024_
 
