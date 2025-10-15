@@ -44,10 +44,14 @@ I am actively seeking academic collaborations where I can contribute to cutting-
 _The ACM Web Conference (WWW), 2025_
 
 <div class="collaboration-line">
-    <span>- Collaboration with China Futures Market Monitoring Center</span>
-    <div class="logos-container">
-        <img src="images/logo/cfmmc.png" alt="cfmmc Logo" class="collaboration-logo">
-    </div>
+        <div class="collaboration-text">
+            <ul class="collaboration-list">
+                <li>Collaboration with China Futures Market Monitoring Center</li>
+            </ul>
+        </div>
+        <div class="logos-container">
+                <img src="images/logo/cfmmc.png" alt="cfmmc Logo" class="collaboration-logo--large">
+        </div>
 </div>
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -66,11 +70,15 @@ Jiasheng Wu, **<u>Xin Liu</u>**, Dawei Cheng, Yi Ouyang, Xian Wu, Yefeng Zheng
 _International Joint Conference on Artificial Intelligence (IJCAI), 2024_
 
 <div class="collaboration-line">
-    <span>- Collaboration with Jarvis Research Center, Tencent YouTu Lab</span>
-    <div class="logos-container">
-        <img src="images/logo/Tencent.png" alt="Tencent Logo" class="collaboration-logo">
-        <img src="images/logo/jarvis.png" alt="Jarvis Logo" class="collaboration-logo">
-    </div>
+        <div class="collaboration-text">
+            <ul class="collaboration-list">
+                <li>Collaboration with Jarvis Research Center, Tencent YouTu Lab</li>
+            </ul>
+        </div>
+        <div class="logos-container">
+                <img src="images/logo/Tencent.png" alt="Tencent Logo" class="collaboration-logo">
+                <img src="images/logo/jarvis.png" alt="Jarvis Logo" class="collaboration-logo">
+        </div>
 </div>
 
 </div>
