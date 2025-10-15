@@ -56,6 +56,7 @@ Jiasheng Wu, **Xin Liu**, Dawei Cheng, Yi Ouyang, Xian Wu, Yefeng Zheng
 
 <div class="collaboration-line">
         <span>- Collaboration with Jarvis Research Center, Tencent YouTu Lab</span>
+        <img src="images/logo/Tencent.png" alt="Lab Logo" class="collaboration-logo">
         <img src="images/logo/jarvis.png" alt="Lab Logo" class="collaboration-logo">
     </div>
 </div>
@@ -75,18 +76,13 @@ Haoyu Sun, **Xin Liu**, Yuxuan Bian, Peng Zhu, Dawei Cheng, Yuqi Liang
 
 # 🎖 Honors and Awards
 
-- _2021.10_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2021.09_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2025_ National Scholarship for Graduate Students _in Tongji University_
+- _2023_ First-Class Scholarships _in Tongji University_
 
 # 📖 Educations
 
 - _2024.09 - 2027.03 (now)_, Liu Xin, M.S., Tongji University, China. (Advisor: Prof. Dawei Cheng)
 - _2020.09 - 2024.06_, Liu Xin, B.S., Tongji University, China.
-<!-- # 💬 Invited Talks
-
-
-- _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/) -->
 
 <!-- # 💻 Internships
 

@@ -22,13 +22,13 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 # Site Author
 author:
   name: "Liu Xin"
-  avatar: "images/android-chrome-512x512.png"
+  avatar: "images/liuxin.jpg"
   bio: "Tongji University | Computer Science & Technology"
   location: "Shanghai, China"
   employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=9E2FFmYAAAAJ"
-  email: "2432042@tongji.edu.cn"
+  2432042@tongji.edu.cn: "2432042@tongji.edu.cn"
   researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -37,7 +37,7 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: # e.g., "github username"
+  github: https://github.com/Claireliu0912 # e.g., "github username"
   google_plus:
   keybase:
   instagram:
