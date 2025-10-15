@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# 🌟 Introduction
+
 <span class='anchor' id='about-me'></span>
 
 I am a Master student in Computer Science and Technology at Tongji University, and I completed my undergraduate studies at Tongji University.
