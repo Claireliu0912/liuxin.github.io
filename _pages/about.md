@@ -50,7 +50,7 @@ _The ACM Web Conference (WWW), 2025_
             </ul>
         </div>
         <div class="logos-container">
-                <img src="images/logo/cfmmc.png" alt="cfmmc Logo" class="collaboration-logo--large">
+                <img src="images/logo/cfmmc.png" alt="cfmmc Logo" class="collaboration-logo collaboration-logo--large">
         </div>
 </div>
 

@@ -130,6 +130,7 @@ h1:before, .anchor:before {
     height: 1.2em; 
     width: auto;
     display: inline-block;
+    max-height: 24px;
     /* Collaboration list styling (used in about.md) */
     .collaboration-list {
         margin: 0 0 0.5em 1.2em;
@@ -147,10 +148,12 @@ h1:before, .anchor:before {
 @media (max-width: 600px) {
     .collaboration-logo {
         height: 0.8em;
+        max-height: 16px;
     }
 }
 
 /* 可选：如果需要单独放大某个 logo（比如 cfmmc），可在 img 上加类 .collaboration-logo--large */
 .collaboration-logo--large {
-    height: 2.4em;
+    height: 1.8em;
+    max-height: 36px;
 }
